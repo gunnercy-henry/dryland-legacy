@@ -28,11 +28,6 @@
 %     pixel_null_lower_maps / pixel_null_upper_maps
 %     sensitivity structures
 %
-% MAIN ANALYSIS:
-%   Real isolated event: |W_z(t)| > 1.5 and both adjacent years < 1.5
-%   Null pool: normal -> normal, both years |W_z| < 1
-%   Detectability: Q10/Q90
-%   Pixel null bootstrap: 1000 iterations
 %
 % NOTE:
 %   Statistical classification is performed at the original grid resolution.
